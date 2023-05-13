@@ -1,7 +1,10 @@
 # Overview
 This repository will assist you in augmenting data (cutout) for training in some cases such as object recognition with dense density, by creating a small cutout in the ground truth to simulate the overlapping of objects.
 
-![result_image](https://github.com/duongngockhanh/cutout-augmentation/assets/87640587/af9f769e-862e-481d-8d41-c5316d6a22e1)
+<p align="center">
+  <img src="https://github.com/duongngockhanh/cutout-augmentation/assets/87640587/af9f769e-862e-481d-8d41-c5316d6a22e1" alt="result_image">
+</p>
+
 
 # Inference
 ```commandline
